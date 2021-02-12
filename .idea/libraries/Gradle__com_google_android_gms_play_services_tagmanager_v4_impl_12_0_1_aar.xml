@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6657d7030122098a34cfde74cb351226/jetified-play-services-tagmanager-v4-impl-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6657d7030122098a34cfde74cb351226/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e94d82e224c0067d74cf4d5dfbdfa8ef/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bdb685fa86798222add9e897e03b09e/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d789a3e1f44651b945758e7abe563411/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ab8be836ee5935f8e295a8cea3c8e09f/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e5ea905e0892a81bd98172bb91387a4/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a6a919870959fe1f6d4c3240655241a/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc56172b24cae787b45a055727fe9f98/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e5ea905e0892a81bd98172bb91387a4/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e5ea905e0892a81bd98172bb91387a4/jetified-play-services-tagmanager-v4-impl-12.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

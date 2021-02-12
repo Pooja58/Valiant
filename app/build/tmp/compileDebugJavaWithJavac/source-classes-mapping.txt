@@ -1,0 +1,45 @@
+com/example/MyApp/PlaceAutocompleteAdapter.java
+ com.example.MyApp.PlaceAutocompleteAdapter
+ com.example.MyApp.PlaceAutocompleteAdapter$1
+com/example/MyApp/PlaceInfo.java
+ com.example.MyApp.PlaceInfo
+com/example/MyApp/ServiceActivity.java
+ com.example.MyApp.ServiceActivity
+com/example/MyApp/SplashScreen.java
+ com.example.MyApp.SplashScreen
+ com.example.MyApp.SplashScreen$1
+com/example/MyApp/user.java
+ com.example.MyApp.user
+com/example/MyApp/BuildConfig.java
+ com.example.MyApp.BuildConfig
+com/example/MyApp/MainActivity.java
+ com.example.MyApp.MainActivity
+ com.example.MyApp.MainActivity$1
+ com.example.MyApp.MainActivity$2
+ com.example.MyApp.MainActivity$3
+ com.example.MyApp.MainActivity$4
+ com.example.MyApp.MainActivity$5
+ com.example.MyApp.MainActivity$6
+ com.example.MyApp.MainActivity$7
+com/example/MyApp/ProfileActivity.java
+ com.example.MyApp.ProfileActivity
+ com.example.MyApp.ProfileActivity$1
+com/example/MyApp/Login_Form.java
+ com.example.MyApp.Login_Form
+ com.example.MyApp.Login_Form$1
+ com.example.MyApp.Login_Form$1$1
+ com.example.MyApp.Login_Form$2
+com/example/MyApp/Signup_Form.java
+ com.example.MyApp.Signup_Form
+ com.example.MyApp.Signup_Form$1
+ com.example.MyApp.Signup_Form$1$1
+ com.example.MyApp.Signup_Form$1$1$1
+com/example/MyApp/MapActivity.java
+ com.example.MyApp.MapActivity
+ com.example.MyApp.MapActivity$1
+ com.example.MyApp.MapActivity$2
+ com.example.MyApp.MapActivity$3
+ com.example.MyApp.MapActivity$4
+ com.example.MyApp.MapActivity$5
+com/example/MyApp/ShakeService.java
+ com.example.MyApp.ShakeService

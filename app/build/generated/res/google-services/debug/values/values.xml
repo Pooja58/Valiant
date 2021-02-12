@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">34789517359-bii17khib8ohqhulqhari1jf6bm98g8u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wesafe-ab541-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">34789517359</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7ofNJAugdt40y9n1n9xCWnWc7o1eBaTI</string>
+    <string name="google_app_id" translatable="false">1:34789517359:android:d54cd2a33b3ef587257eda</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7ofNJAugdt40y9n1n9xCWnWc7o1eBaTI</string>
+    <string name="google_storage_bucket" translatable="false">wesafe-ab541.appspot.com</string>
+    <string name="project_id" translatable="false">wesafe-ab541</string>
+</resources>

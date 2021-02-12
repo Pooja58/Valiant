@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-analytics-impl:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e09a785097a7351987dc044668cb815a/jetified-play-services-analytics-impl-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e09a785097a7351987dc044668cb815a/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21a08986f45a1c204caff6ebb6d46008/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8be8c0432c804ce513bdba4beafa789/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/818f23919895d54311622e517d90673d/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2c19f9aab466af9ed5c31870e94b6a3f/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a3b017032aed874db615f6149d9335/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d96fb4075eccb24501e1e91ab9a3916c/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/771b6b5664fab661b5937f3616a24625/jetified-play-services-analytics-impl-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a3b017032aed874db615f6149d9335/jetified-play-services-analytics-impl-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a3b017032aed874db615f6149d9335/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

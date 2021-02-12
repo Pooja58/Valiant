@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.MyApp.ServiceActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvShakeService"
+        android:textSize="20sp"
+        android:text="Please follow the below steps in case of an emergency:\n\n\n1. Use location button to get the directions to any location.
+        \n\n2. Shake your phone or press SOS button in case of an emergency. This will send a SMS to your registered emergency contacts along with your location.\n\n3. You can see your details by clicking on profile button.
+        \n\n\n\n\t\t\t                    LETS START NOW!"
+        android:textColor="@color/grey"/>
+
+</LinearLayout>

@@ -7,7 +7,7 @@ It is a personal safety application for android users.The main aim of the this a
 * You can share SOS message with one click or gesture(Shaking phone three times).
 * Get location and directions to any place.
 ## Design
-[Class Diagram](https://github.com/Pooja58/Valiant/blob/master/Valiant%20(1).png)
+![Class Diagram](https://github.com/Pooja58/Valiant/blob/master/Valiant%20(1).png)
 ## Demo Video and screenshots
 https://drive.google.com/drive/folders/1EOFIYGe10inApVvHVNFx5nS5_FB5nyHm?usp=sharing
 ## Built Using
